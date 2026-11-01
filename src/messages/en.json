@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "title": "Novo Anjo Farma – Medicine and Hospital Equipment Distribution in Angola",
+    "description": "Import, distribution and marketing of medicines and hospital equipment in Angola. Over 1000 products, WHO-approved sourcing and affordable prices."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "contact": "Contact",
+    "cta": "Request a Quote",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "We supply medicines and hospital equipment across Angola.",
+    "subtitle": "Hospitals, clinics, pharmacies and medical centres buy from us. Over 1000 products, made in WHO-approved factories, at prices people can afford.",
+    "primary": "Request a quote",
+    "secondary": "See our products",
+    "badge": "Licensed to distribute medicines for human use",
+    "registered": "Registered company in Luanda"
+  },
+  "about": {
+    "eyebrow": "Who we are",
+    "title": "A Luanda company that imports and distributes medicines.",
+    "p1": "Novo Anjo Farma imports, distributes and sells medicines and hospital equipment. Our base is in Cacuaco, Luanda.",
+    "p2": "We have the logistics and the finance to supply pharmacies and health services. On quality, we accept no compromise.",
+    "link": "More about us"
+  },
+  "categories": {
+    "eyebrow": "What we supply",
+    "title": "Over 1000 products, generic and branded.",
+    "subtitle": "With and without prescription.",
+    "items": {
+      "essential": {
+        "title": "Essential medicines",
+        "text": "Essential medicines for human use, including specialist medicines."
+      },
+      "antimalarial": {
+        "title": "Anti-malarials",
+        "text": "Treatment for malaria."
+      },
+      "antibiotic": {
+        "title": "Antibiotics",
+        "text": "For common infections and for hospital use."
+      },
+      "antiinflammatory": {
+        "title": "Anti-inflammatories",
+        "text": "Anti-inflammatories and pain relief in several forms."
+      },
+      "cardio": {
+        "title": "Heart medicines and antispasmodics",
+        "text": "Cardiovascular medicines and antispasmodic products."
+      },
+      "forms": {
+        "title": "Capsules and syrups",
+        "text": "For adults and for children."
+      },
+      "nutrition": {
+        "title": "Nutrition",
+        "text": "Supplements and nutrition products."
+      },
+      "hospital": {
+        "title": "Hospital equipment and supplies",
+        "text": "Equipment, consumables, surgical items and laboratory supplies."
+      }
+    },
+    "link": "See all products"
+  },
+  "sourcing": {
+    "eyebrow": "Where our products come from",
+    "title": "Made in WHO-approved factories in India, Portugal and China.",
+    "text": "We have our medicines made in factories approved by the World Health Organization, then import and distribute them ourselves.",
+    "countries": {
+      "india": "India",
+      "portugal": "Portugal",
+      "china": "China"
+    }
+  },
+  "clients": {
+    "eyebrow": "Who we serve",
+    "title": "Who we supply",
+    "items": {
+      "hospitals": "Public hospitals",
+      "centers": "Medical centres, public and private",
+      "clinics": "Clinics",
+      "pharmacies": "Pharmacies"
+    }
+  },
+  "cta": {
+    "title": "Add us to your list of suppliers.",
+    "text": "Tell us what you need and we will get back to you with prices and availability.",
+    "primary": "Message us on WhatsApp",
+    "secondary": "Contact us"
+  },
+  "aboutPage": {
+    "eyebrow": "About us",
+    "title": "About Novo Anjo Farma",
+    "intro": "We import, distribute and sell medicines and hospital equipment from Luanda.",
+    "authorizedTitle": "What we are licensed to distribute",
+    "authorizedText": "We are authorised to distribute and sell essential medicines for human use, including specialist medicines and medicines that contain psychotropic substances. Our range includes antispasmodics, heart and circulation medicines, consumables, surgical items, anti-inflammatories, capsules and syrups, hospital equipment and laboratory supplies, among others.",
+    "missionTitle": "Our mission",
+    "missionText": "Good-quality health products at affordable prices, available across Angola.",
+    "visionTitle": "Where we want to be",
+    "visionText": "We want to lead the market. We are starting with over 1000 products, with and without prescription, across many treatment areas.",
+    "valuesTitle": "Our values",
+    "values": {
+      "zero": "No compromise on quality, ever",
+      "affordable": "Good medicines at prices people can afford",
+      "reputation": "Earning a name as a health supplier people trust",
+      "demand": "Keeping up with what the market needs"
+    },
+    "legalTitle": "Company details",
+    "legal": {
+      "name": "Company name",
+      "nif": "Tax ID (NIF)",
+      "registry": "Luanda Commercial Registry, 2nd Section, Single Window of the Company, no.",
+      "address": "Headquarters"
+    }
+  },
+  "productsPage": {
+    "eyebrow": "Products",
+    "title": "Our products",
+    "intro": "Generic and branded medicines, with and without prescription, in many treatment areas. Ask us for the full catalogue and prices.",
+    "equipmentTitle": "Equipment & supplies",
+    "equipment": {
+      "hospital": "Hospital equipment",
+      "consumables": "Consumable materials",
+      "surgical": "Surgical articles",
+      "lab": "Laboratory material"
+    },
+    "note": "Stock and prices change. Ask for a quote for what you need.",
+    "cta": "Ask for the catalogue and a quote"
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Contact us",
+    "intro": "Ask for a quote or our full catalogue, or ask us to add you to our customer list.",
+    "addressTitle": "Address",
+    "address": "Avenida Fidel de Castro Ruz, Bairro Dala Mulemba (near Cacuaco Municipal Hospital), Cacuaco Municipality, Luanda Province",
+    "phoneTitle": "Phone",
+    "whatsappTitle": "WhatsApp",
+    "openMaps": "Open in Google Maps",
+    "form": {
+      "title": "Send us a message",
+      "hint": "Your message will open in WhatsApp, ready to send.",
+      "name": "Name",
+      "org": "Institution / Company",
+      "phone": "Phone",
+      "message": "Message",
+      "send": "Send via WhatsApp",
+      "intro": "Hello, Novo Anjo Farma!"
+    }
+  },
+  "footer": {
+    "tagline": "Import, distribution and marketing of medicines and hospital equipment.",
+    "links": "Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "images": {
+    "hero": "Warehouse manager checking stock in an organised pharmaceutical warehouse",
+    "warehouse": "Large pharmaceutical warehouse with organised racks of cartons",
+    "delivery": "Staff loading medicine cartons into a delivery van",
+    "products": "Generic medicines: tablets, capsules and syrups",
+    "equipment": "Hospital and surgical supplies, stethoscope and microscope",
+    "partners": "Two healthcare professionals shaking hands in a modern hospital",
+    "pharmacy": "Pharmacist handing medicine to a customer at the counter"
+  },
+  "operations": {
+    "eyebrow": "Storage and delivery",
+    "title": "Our stock and our deliveries",
+    "items": {
+      "warehouse": {
+        "title": "Storage",
+        "text": "Stock kept in order, on proper shelving."
+      },
+      "delivery": {
+        "title": "Delivery",
+        "text": "Orders packed and sent to hospitals, clinics and pharmacies."
+      },
+      "products": {
+        "title": "Products",
+        "text": "Generic and branded medicines from WHO-approved factories."
+      }
+    }
+  },
+  "numbers": {
+    "eyebrow": "Novo Anjo Farma",
+    "title": "At a glance",
+    "more": "Find out more",
+    "cards": {
+      "portfolio": {
+        "label": "Products",
+        "desc": "Products in our range",
+        "highlight": "Over 1000 products: anti-malarials, antibiotics, anti-inflammatories and nutrition, generic and branded."
+      },
+      "sourcing": {
+        "label": "Origin",
+        "desc": "Countries we import from",
+        "highlight": "Our medicines are made in India, Portugal and China, in WHO-approved factories."
+      },
+      "quality": {
+        "label": "Quality",
+        "desc": "WHO-approved manufacturers",
+        "highlight": "We only work with WHO-approved factories. On quality, we accept no compromise."
+      },
+      "coverage": {
+        "label": "Coverage",
+        "desc": "We supply all of Angola",
+        "highlight": "We supply hospitals, clinics, pharmacies and medical centres, public and private."
+      }
+    },
+    "prev": "Previous",
+    "next": "Next"
+  }
+}

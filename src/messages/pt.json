@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "title": "Novo Anjo Farma – Distribuição de Medicamentos e Equipamento Hospitalar em Angola",
+    "description": "Importação, distribuição e comercialização de medicamentos e equipamento hospitalar em Angola. Mais de 1000 produtos, qualidade certificada e preços acessíveis."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Nós",
+    "products": "Produtos",
+    "contact": "Contactos",
+    "cta": "Pedir Cotação",
+    "menu": "Menu",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Fornecemos medicamentos e equipamento hospitalar em toda a Angola.",
+    "subtitle": "Hospitais, clínicas, farmácias e centros médicos compram connosco. Mais de 1000 produtos, fabricados em fábricas aprovadas pela OMS, a preços acessíveis.",
+    "primary": "Pedir cotação",
+    "secondary": "Ver os nossos produtos",
+    "badge": "Autorizada a distribuir medicamentos de uso humano",
+    "registered": "Empresa registada em Luanda"
+  },
+  "about": {
+    "eyebrow": "Quem somos",
+    "title": "Uma empresa de Luanda que importa e distribui medicamentos.",
+    "p1": "A Novo Anjo Farma importa, distribui e vende medicamentos e equipamento hospitalar. A nossa sede fica em Cacuaco, Luanda.",
+    "p2": "Temos logística e capacidade financeira para abastecer farmácias e serviços de saúde. Em qualidade, não aceitamos cedências.",
+    "link": "Mais sobre nós"
+  },
+  "categories": {
+    "eyebrow": "O que fornecemos",
+    "title": "Mais de 1000 produtos, genéricos e de marca.",
+    "subtitle": "Com e sem receita médica.",
+    "items": {
+      "essential": {
+        "title": "Medicamentos essenciais",
+        "text": "Medicamentos essenciais de uso humano, incluindo medicamentos de especialidade."
+      },
+      "antimalarial": {
+        "title": "Antimaláricos",
+        "text": "Tratamento da malária."
+      },
+      "antibiotic": {
+        "title": "Antibióticos",
+        "text": "Para infeções comuns e para uso hospitalar."
+      },
+      "antiinflammatory": {
+        "title": "Anti-inflamatórios",
+        "text": "Anti-inflamatórios e analgésicos em várias formas."
+      },
+      "cardio": {
+        "title": "Medicamentos do coração e antiespasmódicos",
+        "text": "Medicamentos cardiovasculares e produtos antiespasmódicos."
+      },
+      "forms": {
+        "title": "Cápsulas e xaropes",
+        "text": "Para adultos e para crianças."
+      },
+      "nutrition": {
+        "title": "Nutrição",
+        "text": "Suplementos e produtos nutricionais."
+      },
+      "hospital": {
+        "title": "Equipamento e material hospitalar",
+        "text": "Equipamento, material de consumo, artigos cirúrgicos e material de laboratório."
+      }
+    },
+    "link": "Ver todos os produtos"
+  },
+  "sourcing": {
+    "eyebrow": "De onde vêm os nossos produtos",
+    "title": "Fabricados em fábricas aprovadas pela OMS, na Índia, em Portugal e na China.",
+    "text": "Mandamos fabricar os nossos medicamentos em fábricas aprovadas pela Organização Mundial da Saúde, e depois importamos e distribuímos nós mesmos.",
+    "countries": {
+      "india": "Índia",
+      "portugal": "Portugal",
+      "china": "China"
+    }
+  },
+  "clients": {
+    "eyebrow": "Quem servimos",
+    "title": "A quem fornecemos",
+    "items": {
+      "hospitals": "Hospitais públicos",
+      "centers": "Centros médicos públicos e privados",
+      "clinics": "Clínicas",
+      "pharmacies": "Farmácias"
+    }
+  },
+  "cta": {
+    "title": "Inclua-nos na sua lista de fornecedores.",
+    "text": "Diga-nos o que precisa e responderemos com preços e disponibilidade.",
+    "primary": "Escrever no WhatsApp",
+    "secondary": "Contactos"
+  },
+  "aboutPage": {
+    "eyebrow": "Sobre nós",
+    "title": "Sobre a Novo Anjo Farma",
+    "intro": "Importamos, distribuímos e vendemos medicamentos e equipamento hospitalar a partir de Luanda.",
+    "authorizedTitle": "O que estamos autorizados a distribuir",
+    "authorizedText": "Estamos autorizados a distribuir e vender medicamentos essenciais de uso humano, incluindo medicamentos de especialidade e medicamentos com substâncias psicotrópicas. A nossa gama inclui antiespasmódicos, medicamentos cardiovasculares, material de consumo, artigos cirúrgicos, anti-inflamatórios, cápsulas e xaropes, equipamento hospitalar e material de laboratório, entre outros.",
+    "missionTitle": "A nossa missão",
+    "missionText": "Produtos de saúde de boa qualidade, a preços acessíveis, disponíveis em toda a Angola.",
+    "visionTitle": "Onde queremos chegar",
+    "visionText": "Queremos ser líderes de mercado. Começamos com mais de 1000 produtos, com e sem receita médica, em muitas áreas terapêuticas.",
+    "valuesTitle": "Os nossos valores",
+    "values": {
+      "zero": "Nunca ceder em qualidade",
+      "affordable": "Bons medicamentos a preços que as pessoas podem pagar",
+      "reputation": "Merecer o nome de fornecedor de saúde de confiança",
+      "demand": "Acompanhar o que o mercado precisa"
+    },
+    "legalTitle": "Dados da empresa",
+    "legal": {
+      "name": "Denominação",
+      "nif": "NIF",
+      "registry": "Registo Comercial de Luanda, 2.ª Secção, Guiché Único da Empresa, n.º",
+      "address": "Sede"
+    }
+  },
+  "productsPage": {
+    "eyebrow": "Produtos",
+    "title": "Os nossos produtos",
+    "intro": "Medicamentos genéricos e de marca, com e sem receita médica, em muitas áreas terapêuticas. Peça-nos o catálogo completo e os preços.",
+    "equipmentTitle": "Equipamento e material",
+    "equipment": {
+      "hospital": "Equipamento hospitalar",
+      "consumables": "Material de consumo",
+      "surgical": "Artigos cirúrgicos",
+      "lab": "Material de laboratório"
+    },
+    "note": "O stock e os preços mudam. Peça uma cotação para o que precisa.",
+    "cta": "Pedir catálogo e cotação"
+  },
+  "contactPage": {
+    "eyebrow": "Contactos",
+    "title": "Fale connosco",
+    "intro": "Peça uma cotação ou o nosso catálogo completo, ou peça para o incluirmos na nossa lista de clientes.",
+    "addressTitle": "Morada",
+    "address": "Avenida Fidel de Castro Ruz, Bairro Dala Mulemba (próximo ao Hospital Municipal de Cacuaco), Município de Cacuaco, Província de Luanda",
+    "phoneTitle": "Telefone",
+    "whatsappTitle": "WhatsApp",
+    "openMaps": "Abrir no Google Maps",
+    "form": {
+      "title": "Envie-nos uma mensagem",
+      "hint": "A mensagem será aberta no WhatsApp, pronta a enviar.",
+      "name": "Nome",
+      "org": "Instituição / Empresa",
+      "phone": "Telefone",
+      "message": "Mensagem",
+      "send": "Enviar pelo WhatsApp",
+      "intro": "Olá, Novo Anjo Farma!"
+    }
+  },
+  "footer": {
+    "tagline": "Importação, distribuição e comercialização de medicamentos e equipamento hospitalar.",
+    "links": "Ligações",
+    "contact": "Contactos",
+    "rights": "Todos os direitos reservados."
+  },
+  "images": {
+    "hero": "Gestor de armazém a verificar o stock num armazém farmacêutico organizado",
+    "warehouse": "Armazém farmacêutico amplo com estantes de caixas organizadas",
+    "delivery": "Equipa a carregar caixas de medicamentos numa carrinha de entrega",
+    "products": "Medicamentos genéricos: comprimidos, cápsulas e xaropes",
+    "equipment": "Material hospitalar e cirúrgico, estetoscópio e microscópio",
+    "partners": "Dois profissionais de saúde a cumprimentarem-se num hospital moderno",
+    "pharmacy": "Farmacêutico a entregar medicamento a um cliente ao balcão"
+  },
+  "operations": {
+    "eyebrow": "Armazenamento e entrega",
+    "title": "O nosso stock e as nossas entregas",
+    "items": {
+      "warehouse": {
+        "title": "Armazém",
+        "text": "Stock arrumado, em prateleiras apropriadas."
+      },
+      "delivery": {
+        "title": "Entrega",
+        "text": "Encomendas preparadas e enviadas a hospitais, clínicas e farmácias."
+      },
+      "products": {
+        "title": "Produtos",
+        "text": "Medicamentos genéricos e de marca de fábricas aprovadas pela OMS."
+      }
+    }
+  },
+  "numbers": {
+    "eyebrow": "Novo Anjo Farma",
+    "title": "Em resumo",
+    "more": "Saber mais",
+    "cards": {
+      "portfolio": {
+        "label": "Produtos",
+        "desc": "Produtos na nossa gama",
+        "highlight": "Mais de 1000 produtos: antimaláricos, antibióticos, anti-inflamatórios e nutrição, genéricos e de marca."
+      },
+      "sourcing": {
+        "label": "Origem",
+        "desc": "Países de onde importamos",
+        "highlight": "Os nossos medicamentos são fabricados na Índia, em Portugal e na China, em fábricas aprovadas pela OMS."
+      },
+      "quality": {
+        "label": "Qualidade",
+        "desc": "Fabricantes aprovados pela OMS",
+        "highlight": "Trabalhamos apenas com fábricas aprovadas pela OMS. Em qualidade, não aceitamos cedências."
+      },
+      "coverage": {
+        "label": "Cobertura",
+        "desc": "Abastecemos toda a Angola",
+        "highlight": "Abastecemos hospitais, clínicas, farmácias e centros médicos, públicos e privados."
+      }
+    },
+    "prev": "Anterior",
+    "next": "Seguinte"
+  }
+}
