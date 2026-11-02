@@ -23,10 +23,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
   return {
+    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://novoanjofarma.vercel.app"),
+    icons: { icon: "/brand/icon.png", apple: "/brand/apple-icon.png" },
     title: t("title"),
     description: t("description"),
     alternates: { canonical: `/${locale}`, languages: { pt: "/pt", en: "/en" } },
-    openGraph: { title: t("title"), description: t("description"), locale: locale === "pt" ? "pt_AO" : "en", type: "website" },
+    openGraph: { title: t("title"), description: t("description"), locale: locale === "pt" ? "pt_AO" : "en", type: "website", siteName: "Novo Anjo Farma", images: [{ url: "/brand/og.jpg", width: 1200, height: 630 }] },
+    twitter: { card: "summary_large_image", images: ["/brand/og.jpg"] },
   };
 }
 
