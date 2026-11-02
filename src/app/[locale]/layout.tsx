@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: t("title"),
     description: t("description"),
     alternates: { canonical: `/${locale}`, languages: { pt: "/pt", en: "/en" } },
-    openGraph: { title: t("title"), description: t("description"), locale: locale === "pt" ? "pt_AO" : "en", type: "website", siteName: "Novo Anjo Farma", images: [{ url: "/brand/og.jpg", width: 1200, height: 630 }] },
+    openGraph: { title: t("title"), description: t("description"), locale: locale === "pt" ? "pt_AO" : "en", type: "website", siteName: "Novo Anjo Farma", images: [{ url: "/brand/og.jpg", width: 1200, height: 628 }] },
     twitter: { card: "summary_large_image", images: ["/brand/og.jpg"] },
   };
 }
