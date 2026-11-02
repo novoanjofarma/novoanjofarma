@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
   return {
-    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://novoanjofarma.vercel.app"),
+    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.novoanjofarma.com"),
     icons: { icon: "/brand/icon.png", apple: "/brand/apple-icon.png" },
     title: t("title"),
     description: t("description"),
