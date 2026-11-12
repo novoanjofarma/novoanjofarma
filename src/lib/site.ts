@@ -2,7 +2,7 @@ export const SITE = {
   name: "Novo Anjo Farma",
   phones: ["921 482 188", "921 482 678"],
   whatsapp: "244921482188",
-  email: "novoanjofarma@gmail.com",
+  email: "sales@novoanjofarma.com",
   nif: "5002646323",
   registry: "30465-25/250824",
   mapsQuery: "Avenida Fidel de Castro Ruz, Bairro Dala Mulemba, Cacuaco, Luanda",

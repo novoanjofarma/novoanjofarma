@@ -143,13 +143,15 @@
     "openMaps": "Abrir no Google Maps",
     "form": {
       "title": "Envie-nos uma mensagem",
-      "hint": "A mensagem será aberta no WhatsApp, pronta a enviar.",
+      "hint": "Envie pelo WhatsApp ou por email. A mensagem já fica preenchida.",
       "name": "Nome",
       "org": "Instituição / Empresa",
       "phone": "Telefone",
       "message": "Mensagem",
       "send": "Enviar pelo WhatsApp",
-      "intro": "Olá, Novo Anjo Farma!"
+      "intro": "Olá, Novo Anjo Farma!",
+      "sendEmail": "Enviar por email",
+      "subject": "Pedido de cotação – Novo Anjo Farma"
     }
   },
   "footer": {

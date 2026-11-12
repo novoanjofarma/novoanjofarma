@@ -143,13 +143,15 @@
     "openMaps": "Open in Google Maps",
     "form": {
       "title": "Send us a message",
-      "hint": "Your message will open in WhatsApp, ready to send.",
+      "hint": "Send it on WhatsApp or by email. Your message is filled in for you.",
       "name": "Name",
       "org": "Institution / Company",
       "phone": "Phone",
       "message": "Message",
-      "send": "Send via WhatsApp",
-      "intro": "Hello, Novo Anjo Farma!"
+      "send": "Send on WhatsApp",
+      "intro": "Hello, Novo Anjo Farma!",
+      "sendEmail": "Send by email",
+      "subject": "Quote request – Novo Anjo Farma"
     }
   },
   "footer": {
